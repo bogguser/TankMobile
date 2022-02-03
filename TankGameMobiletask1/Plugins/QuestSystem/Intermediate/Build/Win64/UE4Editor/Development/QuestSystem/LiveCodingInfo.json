@@ -1,0 +1,51 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.QuestSystem.cpp.obj": [
+			"CollectActor.cpp.obj",
+			"CollectItem.cpp.obj",
+			"CollectObjective.cpp.obj",
+			"CurrentObjectivesWidget.cpp.obj",
+			"IInteractableObject.cpp.obj",
+			"InteractableActor.cpp.obj",
+			"InteractionComponent.cpp.obj",
+			"InteractionObjective.cpp.obj",
+			"LocationMarker.cpp.obj",
+			"LocationMarkerActor.cpp.obj",
+			"LocationObjective.cpp.obj",
+			"Objective.cpp.obj",
+			"ObjectiveWidget.cpp.obj",
+			"Quest.cpp.obj",
+			"QuestDescriptionWidget.cpp.obj",
+			"QuestDialog.cpp.obj",
+			"QuestListComponent.cpp.obj",
+			"QuestListEntry.cpp.obj",
+			"QuestLogWidget.cpp.obj",
+			"QuestSystem.cpp.obj",
+			"QuestSystemCharacter.cpp.obj"
+		],
+		"Module.QuestSystem.gen.cpp.obj": [
+			"CollectActor.gen.cpp.obj",
+			"CollectItem.gen.cpp.obj",
+			"CollectObjective.gen.cpp.obj",
+			"CurrentObjectivesWidget.gen.cpp.obj",
+			"IInteractableObject.gen.cpp.obj",
+			"InteractableActor.gen.cpp.obj",
+			"InteractionComponent.gen.cpp.obj",
+			"InteractionObjective.gen.cpp.obj",
+			"LocationMarker.gen.cpp.obj",
+			"LocationMarkerActor.gen.cpp.obj",
+			"LocationObjective.gen.cpp.obj",
+			"Objective.gen.cpp.obj",
+			"ObjectiveWidget.gen.cpp.obj",
+			"Quest.gen.cpp.obj",
+			"QuestDescriptionWidget.gen.cpp.obj",
+			"QuestDialog.gen.cpp.obj",
+			"QuestListComponent.gen.cpp.obj",
+			"QuestListEntry.gen.cpp.obj",
+			"QuestLogWidget.gen.cpp.obj",
+			"QuestSystem.init.gen.cpp.obj",
+			"QuestSystemCharacter.gen.cpp.obj"
+		]
+	}
+}

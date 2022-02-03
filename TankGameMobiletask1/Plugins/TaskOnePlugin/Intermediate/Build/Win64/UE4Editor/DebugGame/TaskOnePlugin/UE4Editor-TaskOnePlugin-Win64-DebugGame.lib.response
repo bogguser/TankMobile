@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TaskOnePlugin-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Intermediate\Build\Win64\TankGameEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\TaskOnePlugin\Intermediate\Build\Win64\UE4Editor\DebugGame\TaskOnePlugin\Module.TaskOnePlugin.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\TaskOnePlugin\Intermediate\Build\Win64\UE4Editor\DebugGame\TaskOnePlugin\Module.TaskOnePlugin.gen.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\TaskOnePlugin\Intermediate\Build\Win64\UE4Editor\DebugGame\TaskOnePlugin\Default.rc2.res"
+/OUT:"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\TaskOnePlugin\Intermediate\Build\Win64\UE4Editor\DebugGame\TaskOnePlugin\UE4Editor-TaskOnePlugin-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_TaskOnePlugin

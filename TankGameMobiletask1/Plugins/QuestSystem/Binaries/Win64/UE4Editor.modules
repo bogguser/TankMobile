@@ -1,0 +1,9 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"QuestSystem": "UE4Editor-QuestSystem-0006.dll",
+		"QuestTool": "UE4Editor-QuestTool-0006.dll",
+		"StandaloneWindowQuest": "UE4Editor-StandaloneWindowQuest-0006.dll"
+	}
+}

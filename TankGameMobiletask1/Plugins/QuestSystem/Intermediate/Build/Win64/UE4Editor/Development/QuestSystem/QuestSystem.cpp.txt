@@ -1,0 +1,2 @@
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Development\QuestSystem\Definitions.QuestSystem.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem\Public\QuestSystem.h

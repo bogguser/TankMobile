@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TankGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"Slate",
+				"SlateCore",
+				"UMG",
+				"CoreUObject"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "TaskOnePlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "TestPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaWidget",
+			"Enabled": true
+		}
+	]
+}

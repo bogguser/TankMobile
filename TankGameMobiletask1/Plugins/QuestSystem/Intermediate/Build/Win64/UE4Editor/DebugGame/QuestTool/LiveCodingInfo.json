@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.QuestTool.cpp.obj": [
+			"QuestTool.cpp.obj",
+			"QuestToolEdMode.cpp.obj",
+			"QuestToolEdModeToolkit.cpp.obj"
+		]
+	}
+}

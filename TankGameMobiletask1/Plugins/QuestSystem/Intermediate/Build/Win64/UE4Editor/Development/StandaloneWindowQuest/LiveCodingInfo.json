@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StandaloneWindowQuest.cpp.obj": [
+			"SQuestSystemEditor.cpp.obj",
+			"StandaloneWindowQuest.cpp.obj",
+			"StandaloneWindowQuestCommands.cpp.obj",
+			"StandaloneWindowQuestStyle.cpp.obj"
+		]
+	}
+}
