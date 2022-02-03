@@ -1,0 +1,2 @@
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\TaskOnePlugin\Intermediate\Build\Win64\UE4Editor\Development\TaskOnePlugin\Definitions.TaskOnePlugin.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\TaskOnePlugin\Source\TaskOnePlugin\Public\TaskOnePlugin.h

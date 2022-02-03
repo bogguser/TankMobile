@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-QuestTool-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Intermediate\Build\Win64\TankGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Development\QuestTool\Module.QuestTool.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Development\QuestTool\Default.rc2.res"
+/OUT:"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Development\QuestTool\UE4Editor-QuestTool-0005.lib"
+/INCLUDE:IMPLEMENT_MODULE_QuestTool

@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TaskOnePlugin.cpp.obj": [
+			"FaceActor.cpp.obj",
+			"TaskOnePlugin.cpp.obj"
+		],
+		"Module.TaskOnePlugin.gen.cpp.obj": [
+			"FaceActor.gen.cpp.obj",
+			"TaskOnePlugin.init.gen.cpp.obj"
+		]
+	}
+}

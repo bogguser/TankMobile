@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StandaloneWindowQuest-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Intermediate\Build\Win64\TankGameEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\StandaloneWindowQuest\Module.StandaloneWindowQuest.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\StandaloneWindowQuest\Default.rc2.res"
+/OUT:"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\StandaloneWindowQuest\UE4Editor-StandaloneWindowQuest-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_StandaloneWindowQuest

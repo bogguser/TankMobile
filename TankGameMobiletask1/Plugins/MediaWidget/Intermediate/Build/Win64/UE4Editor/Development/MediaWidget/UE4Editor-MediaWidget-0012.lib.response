@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MediaWidget-0012.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\glinb\Documents\Unreal Projects\TankGame\Intermediate\Build\Win64\TankGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\MediaWidget\Intermediate\Build\Win64\UE4Editor\Development\MediaWidget\Module.MediaWidget.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\MediaWidget\Intermediate\Build\Win64\UE4Editor\Development\MediaWidget\Module.MediaWidget.gen.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\MediaWidget\Intermediate\Build\Win64\UE4Editor\Development\MediaWidget\Default.rc2.res"
+/OUT:"C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\MediaWidget\Intermediate\Build\Win64\UE4Editor\Development\MediaWidget\UE4Editor-MediaWidget-0012.lib"
+/INCLUDE:IMPLEMENT_MODULE_MediaWidget

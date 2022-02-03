@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TaskOnePlugin-0024.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\glinb\Documents\Unreal Projects\TankGame\Intermediate\Build\Win64\TankGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\TaskOnePlugin\Intermediate\Build\Win64\UE4Editor\Development\TaskOnePlugin\Module.TaskOnePlugin.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\TaskOnePlugin\Intermediate\Build\Win64\UE4Editor\Development\TaskOnePlugin\Module.TaskOnePlugin.gen.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\TaskOnePlugin\Intermediate\Build\Win64\UE4Editor\Development\TaskOnePlugin\Default.rc2.res"
+/OUT:"C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\TaskOnePlugin\Intermediate\Build\Win64\UE4Editor\Development\TaskOnePlugin\UE4Editor-TaskOnePlugin-0024.lib"
+/INCLUDE:IMPLEMENT_MODULE_TaskOnePlugin

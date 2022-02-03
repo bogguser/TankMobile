@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MediaWidget",
+	"Description": "MediaWidgetDesc",
+	"Category": "Other",
+	"CreatedBy": "glinb",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MediaWidget",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+		
+	]
+}

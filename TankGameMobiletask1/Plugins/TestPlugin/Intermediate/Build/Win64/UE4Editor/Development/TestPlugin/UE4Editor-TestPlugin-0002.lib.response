@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestPlugin-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Intermediate\Build\Win64\TankGameEditor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPlugin\TestPlugin.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPlugin\Default.rc2.res"
+/OUT:"C:\Users\glinb\Documents\Unreal Projects\TankGameMobile\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPlugin\UE4Editor-TestPlugin-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_TestPlugin

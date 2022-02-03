@@ -1,0 +1,2 @@
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\MediaWidget\Intermediate\Build\Win64\UE4Editor\Development\MediaWidget\Definitions.MediaWidget.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\MediaWidget\Source\MediaWidget\Public\MediaWidget.h
