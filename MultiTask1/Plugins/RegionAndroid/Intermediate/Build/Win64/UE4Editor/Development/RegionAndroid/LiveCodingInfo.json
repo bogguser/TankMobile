@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RegionAndroid.cpp.obj": [
+			"AndroidRegionFlag.cpp.obj",
+			"CharacterHUD.cpp.obj",
+			"RegionAndroid.cpp.obj",
+			"RegionInterface.cpp.obj"
+		],
+		"Module.RegionAndroid.gen.cpp.obj": [
+			"CharacterHUD.gen.cpp.obj",
+			"RegionAndroid.init.gen.cpp.obj",
+			"RegionInterface.gen.cpp.obj"
+		]
+	}
+}

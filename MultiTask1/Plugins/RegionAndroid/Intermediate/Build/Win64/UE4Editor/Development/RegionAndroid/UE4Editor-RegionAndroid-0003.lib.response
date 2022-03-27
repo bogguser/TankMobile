@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RegionAndroid-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\glinb\Documents\Unreal Projects\PugiTest\Intermediate\Build\Win64\PugiTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Development\RegionAndroid\Module.RegionAndroid.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Development\RegionAndroid\Module.RegionAndroid.gen.cpp.obj"
+"C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Development\RegionAndroid\Default.rc2.res"
+/OUT:"C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Development\RegionAndroid\UE4Editor-RegionAndroid-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_RegionAndroid

@@ -1,0 +1,15 @@
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Development\RegionAndroid\Definitions.RegionAndroid.h
+C:/Users/glinb/Documents/Unreal Projects/PugiTest/Plugins/RegionAndroid/Intermediate/Build/Win64/UE4Editor/Inc/RegionAndroid/CharacterHUD.gen.cpp
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Source\RegionAndroid/Public/CharacterHUD.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Inc\RegionAndroid\CharacterHUD.generated.h
+C:/Users/glinb/Documents/Unreal Projects/PugiTest/Plugins/RegionAndroid/Intermediate/Build/Win64/UE4Editor/Inc/RegionAndroid/RegionAndroid.init.gen.cpp
+C:/Users/glinb/Documents/Unreal Projects/PugiTest/Plugins/RegionAndroid/Intermediate/Build/Win64/UE4Editor/Inc/RegionAndroid/RegionInterface.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Source\RegionAndroid/Public/RegionInterface.h
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Inc\RegionAndroid\RegionInterface.generated.h
