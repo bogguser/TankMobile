@@ -1,0 +1,18 @@
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Development\RegionAndroid\Definitions.RegionAndroid.h
+C:/Users/glinb/Documents/Unreal Projects/PugiTest/Plugins/RegionAndroid/Source/RegionAndroid/Private/AndroidRegionFlag.cpp
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Source\RegionAndroid\Public\AndroidRegionFlag.h
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Source\RegionAndroid\Public\RegionInterface.h
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Inc\RegionAndroid\RegionInterface.generated.h
+C:/Users/glinb/Documents/Unreal Projects/PugiTest/Plugins/RegionAndroid/Source/RegionAndroid/Private/CharacterHUD.cpp
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Source\RegionAndroid\Public\CharacterHUD.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Inc\RegionAndroid\CharacterHUD.generated.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+F:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+C:/Users/glinb/Documents/Unreal Projects/PugiTest/Plugins/RegionAndroid/Source/RegionAndroid/Private/RegionAndroid.cpp
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Source\RegionAndroid\Public\RegionAndroid.h
+C:/Users/glinb/Documents/Unreal Projects/PugiTest/Plugins/RegionAndroid/Source/RegionAndroid/Private/RegionInterface.cpp

@@ -1,0 +1,2 @@
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Intermediate\Build\Win64\UE4Editor\Development\RegionAndroid\Definitions.RegionAndroid.h
+C:\Users\glinb\Documents\Unreal Projects\PugiTest\Plugins\RegionAndroid\Source\RegionAndroid\Public\RegionAndroid.h
